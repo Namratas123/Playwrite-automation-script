@@ -1,0 +1,3 @@
+ORANGEHRM_URL = "https://opensource-demo.orangehrmlive.com/"
+ORANGEHRM_USER = "Admin"
+ORANGEHRM_PASSWORD = "admin123"
